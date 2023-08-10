@@ -1,0 +1,3 @@
+/home/test/freeSpace/codeforblog/03-list/I-listBack/buils/CMakeFiles/ListBack.dir
+/home/test/freeSpace/codeforblog/03-list/I-listBack/buils/CMakeFiles/edit_cache.dir
+/home/test/freeSpace/codeforblog/03-list/I-listBack/buils/CMakeFiles/rebuild_cache.dir
